@@ -16,8 +16,8 @@ window.footer_discord = process.env.NEXT_PUBLIC_DISCORD_URL;
 window.footer_telegram = process.env.NEXT_PUBLIC_TELEGRAM_URL;
 
 // Branding
-window.project_name = process.env.NEXT_PUBLIC_PROJECT_NAME;
-window.project_domain = process.env.NEXT_PUBLIC_PROJECT_DOMAIN;
+window.project_name = "MEMECO.FUN";
+window.project_domain = "memeco.fun";
 
 // Disclaimer
 window.disclaimer = `
